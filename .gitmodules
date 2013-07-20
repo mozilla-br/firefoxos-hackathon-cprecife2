@@ -1,0 +1,36 @@
+[submodule "VaiChoverRecife"]
+	path = VaiChoverRecife
+	url = https://github.com/adrielcafe/VaiChoverRecife
+[submodule "Heritree"]
+	path = Heritree
+	url = https://github.com/dijb988/Heritree
+[submodule "cameraspe"]
+	path = cameraspe
+	url = https://github.com/vrcca/cameraspe
+[submodule "sauderecife"]
+	path = sauderecife
+	url = https://github.com/beugenio/sauderecife
+[submodule "pernambucanidades"]
+	path = pernambucanidades
+	url = https://github.com/squallsv/pernambucanidades
+[submodule "buscasaude"]
+	path = buscasaude
+	url = https://github.com/yelken/buscasaude
+[submodule "Cocar2"]
+	path = Cocar2
+	url = https://github.com/geolado/Cocar2
+[submodule "RecifeTravelPlanner"]
+	path = RecifeTravelPlanner
+	url = https://github.com/celsoagra/RecifeTravelPlanner
+[submodule "hackathon"]
+	path = hackathon
+	url = https://bitbucket.org/frevo_comunicacao/hackathon/
+[submodule "peersquare"]
+	path = peersquare
+	url = https://github.com/dmesquita/peersquare
+[submodule "paradas"]
+	path = paradas
+	url = https://github.com/rtmc/paradas
+[submodule "RecifeNaRaizCP"]
+	path = RecifeNaRaizCP
+	url = https://github.com/joselitojunior/RecifeNaRaizCP
