@@ -34,3 +34,6 @@
 [submodule "RecifeNaRaizCP"]
 	path = RecifeNaRaizCP
 	url = https://github.com/joselitojunior/RecifeNaRaizCP
+[submodule "SAMUPE-FIREFOX"]
+	path = SAMUPE-FIREFOX
+	url = https://github.com/diogo10/SAMUPE-FIREFOX
